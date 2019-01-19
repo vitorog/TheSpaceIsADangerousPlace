@@ -24,7 +24,7 @@ http://www.solarvoyager.com/images/tutorials/asteroid.jpg
 ## Animated fire:
 http://www.tutorialwiz.com/animated_fire
 
-## Background / Stafield:
+## Background / Starfield:
 http://www.webdesign.org/photoshop/articles/make-a-realistic-star-field.3811.html
 
 ## AS3 Tutorial:
